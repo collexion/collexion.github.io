@@ -12,41 +12,41 @@ title: Collexion Steampunk Dance Party 2010 - Collexion
 
 *When: November 19, 2010  -- from 8pm to ?We're going to dress in all steampunk and go dance.
 
-We're having another party in-house at 
-[Collexion](/collexion.html) too. This event will be sometime in the future, but here's some notes on it:
+We're having another party in-house at
+[Collexion](/pages/collexion.html) too. This event will be sometime in the future, but here's some notes on it:
 
 ##Contents
 
-*[1 
+*[1
 People](#People)
 
 
-*[2 
+*[2
 Ambiance](#Ambiance)
 
 
-*[3 
+*[3
 Decorations](#Decorations)
 
 
-*[4 
+*[4
 Prizes](#Prizes)
 
 
-*[5 
+*[5
 Cast](#Cast)
 
 
-*[6 
+*[6
 Pre-Party events](#Pre-Party_events)###People
 
 
 We need to contact these people to see how they might be involved. Feel free to do so and report back here.
 
-*[Collexion](/collexion.html)
+*[Collexion](/pages/collexion.html)
 
 
-*[Startup Weekend](/mw/index.php?title=Startup_Weekend&action=edit&redlink=1) ???
+*[Startup Weekend](/pages/mw/index.php?title=Startup_Weekend&action=edit&redlink=1) ???
 
 
 *[Up Fair](http://mlatcomics.com/upfair/) ???
@@ -107,7 +107,7 @@ We need to contact these people to see how they might be involved. Feel free to 
 ###Prizes
 
 
-*badges: 
+*badges:
 
 *most popular
 

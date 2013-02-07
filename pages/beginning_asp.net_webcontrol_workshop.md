@@ -29,6 +29,6 @@ This workshop is for,
 
 Attending:
 
-[MikeD](/user:mikedillion.html)
+[MikeD](/pages/user:mikedillion.html)
 
 </div>

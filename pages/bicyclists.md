@@ -29,6 +29,6 @@ Various, usually occuring multiple times a week.  Just post to the list if you w
 *Ashley Greer - Big fan of the Legacy Trail.
 
 
-*[Nikolaiwarner](/user:nikolaiwarner.html)
+*[Nikolaiwarner](/pages/user:nikolaiwarner.html)
 
 </div>

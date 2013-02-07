@@ -7,7 +7,7 @@ title: Dojo - Collexion
 
 # Dojo
 
-*[EquipmentFreeExerciseRoutine](/equipmentfreeexerciseroutine.html)##Wishlist
+*[EquipmentFreeExerciseRoutine](/pages/equipmentfreeexerciseroutine.html)##Wishlist
 
 
 *bench
