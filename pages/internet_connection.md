@@ -10,8 +10,8 @@ title: Internet Connection - Collexion
 ##Collexion Internet Connection Details
 
 
-We have a WiMax connection to QX.net.  See 
-[Router Settings](/router_settings.html) for the IP address information.
+We have a WiMax connection to QX.net.  See
+[Router Settings](/pages/router_settings.html) for the IP address information.
 
 The bandwidth appears to be 4 Mbit x 4 Mbit symmetric.  Maybe 4M x 2M.  And Todd says we're paying $85/mo for it.
 

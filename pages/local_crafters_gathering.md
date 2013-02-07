@@ -10,8 +10,8 @@ title: Local Crafters Gathering - Collexion
 ##About
 
 
-Where: 
-[Collexion](/collexion.html)
+Where:
+[Collexion](/pages/collexion.html)
 
 When: Weekly on Mondays from 7pm - 9pm
 
@@ -24,7 +24,7 @@ It's a free and casual meetup for folks who dig sewing and knitting and gluing a
 ##Community Links
 
 
-Have an Etsy shop or website for your goods or something else to share? 
+Have an Etsy shop or website for your goods or something else to share?
 [Send us a link](mailto:n@nikolaiwarner.com) and we'll pop it up on here!
 
 </div>
