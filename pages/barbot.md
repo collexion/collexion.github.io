@@ -9,13 +9,13 @@ title: Barbot - Collexion
 
 Concept:
 
-[![Barbot0.png](/mw/images/8/84/Barbot0.png)](/file:barbot0.png.html)
+[![Barbot0.png](/pages/mw/images/8/84/Barbot0.png)](/pages/file:barbot0.png.html)
 
 Members:
 
-*[MikeDillion](/user:mikedillion.html)
+*[MikeDillion](/pages/user:mikedillion.html)
 
 
-*[Nikolaiwarner](/user:nikolaiwarner.html)
+*[Nikolaiwarner](/pages/user:nikolaiwarner.html)
 
 </div>

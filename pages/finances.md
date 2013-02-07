@@ -7,8 +7,8 @@ title: Finances - Collexion
 
 # Finances
 
-Collexion is funded by monthly membership 
-[dues](/dues.html), donations, and grants.
+Collexion is funded by monthly membership
+[dues](/pages/dues.html), donations, and grants.
 
 
 
@@ -21,6 +21,6 @@ Collexion is funded by monthly membership
 *Insurance: $110
 
 
-*[Electric Bill](/electric_bill.html): ~$100
+*[Electric Bill](/pages/electric_bill.html): ~$100
 
 </div>
