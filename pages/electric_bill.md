@@ -3,8 +3,6 @@ layout: default
 title: Collexion's Electric Bill History
 ---
 
-<div id="page">
-
 # Collexion's Electric Bill History
 
 - 01/2011: $435.50 (includes new account deposit)
@@ -32,5 +30,3 @@ title: Collexion's Electric Bill History
 - 11/2012: $89.21 (paid by Nikolaiwarner) !!!!!!!!!
 - 12/2012: $112.73 (paid by Nikolaiwarner) !!!!!!!!!
 - 1/2013: $112.73 (paid by Nikolaiwarner) !!!!!!!!!
-
-</div>
