@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hacking Screenprinting: Lesson 1 - Collexion
+title: "Hacking Screenprinting: Lesson 1 - Collexion"
 ---
 
 <div id="page">
