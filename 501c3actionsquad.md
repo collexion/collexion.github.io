@@ -3,8 +3,6 @@ layout: default
 title: 501c3ActionSquad - Collexion
 ---
 
-<div id="page">
-
 # 501c3ActionSquad
 
 ##Contents
@@ -32,5 +30,3 @@ Prizes](#Prizes)##Goals
 
 
 ##Prizes
-
-</div>

@@ -3,16 +3,14 @@ layout: default
 title: Finances - Collexion
 ---
 
-<div id="page">
-
 # Finances
 
-Collexion is funded by monthly membership
-[dues](/pages/dues.html), donations, and grants.
+Collexion is funded by monthly membership 
+[dues](-dues.html), donations, and grants.
 
 
 
-##Monthly
+##Monthly Budget
 
 
 *Rent: $300
@@ -21,6 +19,7 @@ Collexion is funded by monthly membership
 *Insurance: $110
 
 
-*[Electric Bill](/pages/electric_bill.html): ~$100
+*Internet: $150
 
-</div>
+
+*[Electric Bill](-electric_bill.html): ~$120

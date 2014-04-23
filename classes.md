@@ -3,8 +3,6 @@ layout: default
 title: Classes - Collexion
 ---
 
-<div id="page">
-
 # Classes
 
 ##Contents
@@ -346,5 +344,3 @@ Can't find that Underwater Basketweaving you've been searching for?  Add it here
 
 
 *Vertical mill (I want this: )
-
-</div>

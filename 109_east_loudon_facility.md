@@ -3,8 +3,6 @@ layout: default
 title: 109 East Loudon Facility - Collexion
 ---
 
-<div id="page">
-
 # 109 East Loudon Facility
 
 ##Dimensions
@@ -35,5 +33,3 @@ Building dimensions in inches:
 
 
 N ->
-
-</div>

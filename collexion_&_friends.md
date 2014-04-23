@@ -3,8 +3,6 @@ layout: default
 title: Collexion & Friends - Collexion
 ---
 
-<div id="page">
-
 # Collexion & Friends
 
 Hackers gotta eat!
@@ -25,5 +23,3 @@ This Week we'll be at:
 
 
 *Stella's
-
-</div>

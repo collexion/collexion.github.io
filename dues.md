@@ -3,8 +3,6 @@ layout: default
 title: Dues - Collexion
 ---
 
-<div id="page">
-
 # Dues
 
 Collexion's non-profit existence is made possible by grants and your donations.
@@ -62,5 +60,3 @@ To donate online, click here:
 
 
 *Suggested donation: $60 / monthPlease give what you can. Collexion is for us by us.
-
-</div>

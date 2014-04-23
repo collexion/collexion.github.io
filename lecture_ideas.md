@@ -3,8 +3,6 @@ layout: default
 title: Lecture Ideas - Collexion
 ---
 
-<div id="page">
-
 # Lecture Ideas
 
 *Arduino
@@ -20,5 +18,3 @@ title: Lecture Ideas - Collexion
 
 
 *Creative Commons, Copy Left, etc.
-
-</div>

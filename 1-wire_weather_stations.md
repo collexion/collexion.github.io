@@ -3,8 +3,6 @@ layout: default
 title: 1-Wire Weather Stations - Collexion
 ---
 
-<div id="page">
-
 # 1-Wire Weather Stations
 
 Interest has grown about creating weather stations and setting up a data input into a Collexion database for testing, analysis, and to create a software system that can be used for learning and experimentation. We will put together weather stations using pre-built components to get started in the hobby, and then we will branch out into data integration, manually building components, adding data warehousing and analytics, and more!
@@ -101,5 +99,3 @@ We can build a 1-Wire Weather Station using the Weather Toys book as a source. T
 
 
 *Profit!
-
-</div>

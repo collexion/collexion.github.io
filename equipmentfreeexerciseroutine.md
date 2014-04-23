@@ -3,8 +3,6 @@ layout: default
 title: EquipmentFreeExerciseRoutine - Collexion
 ---
 
-<div id="page">
-
 # EquipmentFreeExerciseRoutine
 
 ##Contents
@@ -182,5 +180,3 @@ May 29. Workout B
 May 30. Workout C
 
 May 31. Workout D
-
-</div>

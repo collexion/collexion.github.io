@@ -3,45 +3,37 @@ layout: default
 title: Equipment Wishlist - Collexion
 ---
 
-<div id="page">
-
 # Equipment Wishlist
 
 PLEASE: include the thing you want to the list.
 
-NOTE: If you are going to provide a thing to Collexion, mark whatever you have to donate with your name. Then bring it in and remove the item from this page and add it to our
-[Equipment](/pages/equipment.html) Inventory page
+NOTE: If you are going to provide a thing to Collexion, mark whatever you have to donate with your name. Then bring it in and remove the item from this page and add it to our 
+[Equipment](-equipment.html) Inventory page
 
 ##Contents
 
-*[1
+*[1 
 Building Amenities/Comforts](#Building_Amenities.2FComforts)
 
 
-*[2
+*[2 
 General Tools](#General_Tools)
 
 
-*[3
+*[3 
 Electronics Tools](#Electronics_Tools)
 
 
-*[4
+*[4 
 Crafting](#Crafting)
 
 
-*[5
+*[5 
 Large/Expensive Tools](#Large.2FExpensive_Tools)
 
 
-*[6
+*[6 
 Biology/Chemistry](#Biology.2FChemistry)##Building Amenities/Comforts
-
-
-*Shelves
-
-
-*laser printer
 
 
 *=> 32" LCD TV
@@ -53,19 +45,7 @@ Biology/Chemistry](#Biology.2FChemistry)##Building Amenities/Comforts
 *Video Game Consoles
 
 
-*Peg Boards/Tool Storage
-
-
-*PA System/Speakers  (as needed) (James Osborne)
-
-
-*Refrigerator (AshleyG)
-
-
-*Whiteboards (MikeD)
-
-
-*ladder:
+*ladder: 
 [[1]](http://www.google.com/products/catalog?cid=17002129223759513596)
 
 
@@ -109,9 +89,6 @@ Biology/Chemistry](#Biology.2FChemistry)##Building Amenities/Comforts
 
 
 *Extension Cords / Power Strips
-
-
-*Safety Glasses
 
 
 *Wet/Dry Vac.
@@ -250,5 +227,3 @@ Biology/Chemistry](#Biology.2FChemistry)##Building Amenities/Comforts
 
 
 *Scales
-
-</div>

@@ -3,8 +3,6 @@ layout: default
 title: Cooking! with Chef Nikolai - Collexion
 ---
 
-<div id="page">
-
 # Cooking! with Chef Nikolai
 
 Hungry? Looking for some serious FUN? You need to get "Cooking!"
@@ -16,5 +14,3 @@ Buy your copy today!
 What are you waiting for? Chef Nikolai misses you. He wants YOU in the kitchen! Chef Nikolai needs you to cook something now!
 
 Don't you like having fun? Prove it, honkey! Go cook!
-
-</div>

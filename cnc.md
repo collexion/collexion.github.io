@@ -3,9 +3,10 @@ layout: default
 title: CNC - Collexion
 ---
 
-<div id="page">
-
 # CNC
+
+This page documents the process of building the CNC and is kept for historical reasons.  You may want to se the 
+[CNC Howto](-cnc_howto.html).
 
 When: Many 
 Saturdays noon - 3 PM or Anytime (Check the calendar or the Collexion-CNC list to see if we're meeting any particular Saturday before coming down!)
@@ -232,5 +233,3 @@ Some other plans we considered.  All are viable, and our selection of Joe's plan
 
 
 *[http://www.mechmate.com/](http://www.mechmate.com/)
-
-</div>

@@ -3,8 +3,6 @@ layout: default
 title: Game Jam - Collexion
 ---
 
-<div id="page">
-
 # Game Jam
 
 #2011 - Collexion Game Jam #1
@@ -72,5 +70,3 @@ Resources
 
 *[Giant list of assets](http://www.gamedev.net/topic/544073-free-2d3d-art-assets-09/), including the big huge TIGSource Assemblee competition 
 [asset page](http://www.derekyu.com/tigs/assemblee/)
-
-</div>

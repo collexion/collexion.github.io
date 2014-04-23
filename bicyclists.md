@@ -3,8 +3,6 @@ layout: default
 title: Bicyclists - Collexion
 ---
 
-<div id="page">
-
 # Bicyclists
 
 ##Purpose
@@ -29,6 +27,4 @@ Various, usually occuring multiple times a week.  Just post to the list if you w
 *Ashley Greer - Big fan of the Legacy Trail.
 
 
-*[Nikolaiwarner](/pages/user:nikolaiwarner.html)
-
-</div>
+*[Nikolaiwarner](-user:nikolaiwarner.html)

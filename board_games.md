@@ -3,8 +3,6 @@ layout: default
 title: Board Games - Collexion
 ---
 
-<div id="page">
-
 # Board Games
 
 #Next Board Game Meetup
@@ -26,5 +24,3 @@ title: Board Games - Collexion
 
 
 *Settlers of Catan (Nikolaiwarner)
-
-</div>

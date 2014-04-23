@@ -3,8 +3,6 @@ layout: default
 title: Books - Collexion
 ---
 
-<div id="page">
-
 # Books
 
 The book club talks about two types of books: fun reads and technical books
@@ -121,5 +119,3 @@ One of the O'Reilly Hacks books
 
 
 Prisoner's Dilemma by William Poundstone
-
-</div>

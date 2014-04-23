@@ -3,8 +3,6 @@ layout: default
 title: Collexion Show and Tell - Collexion
 ---
 
-<div id="page">
-
 # Collexion Show and Tell
 
 "Collexion Show and Tell" is a new series at Collexion where one of us gets an hour or so to just present great stuff.
@@ -26,5 +24,3 @@ There are no rules, no pressure, just fun. The presenter could show a movie, or 
 
 
 *Prepare a little, not a lot. Go with our flow.
-
-</div>

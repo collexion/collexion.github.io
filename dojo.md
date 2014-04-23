@@ -3,11 +3,9 @@ layout: default
 title: Dojo - Collexion
 ---
 
-<div id="page">
-
 # Dojo
 
-*[EquipmentFreeExerciseRoutine](/pages/equipmentfreeexerciseroutine.html)##Wishlist
+*[EquipmentFreeExerciseRoutine](-equipmentfreeexerciseroutine.html)##Wishlist
 
 
 *bench
@@ -54,5 +52,3 @@ title: Dojo - Collexion
 
 
 *[Man-maker (youtube)](http://www.youtube.com/watch?v=3AUPpOPWFUQ)
-
-</div>

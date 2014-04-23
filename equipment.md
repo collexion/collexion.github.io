@@ -3,8 +3,6 @@ layout: default
 title: Equipment - Collexion
 ---
 
-<div id="page">
-
 # Equipment
 
 ##Collexion Equipment Inventory
@@ -47,5 +45,3 @@ title: Equipment - Collexion
 
 
 *Drill Press (dhempy)
-
-</div>

@@ -3,8 +3,6 @@ layout: default
 title: Beginning ASP.Net WebControl Workshop - Collexion
 ---
 
-<div id="page">
-
 # Beginning ASP.Net WebControl Workshop
 
 Come to the ASP.Net WebControl Workshop to discover a few ways of harnessing the framework to make front-end development easier.
@@ -29,6 +27,4 @@ This workshop is for,
 
 Attending:
 
-[MikeD](/pages/user:mikedillion.html)
-
-</div>
+[MikeD](-user:mikedillion.html)

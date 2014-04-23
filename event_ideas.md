@@ -3,8 +3,6 @@ layout: default
 title: Event Ideas - Collexion
 ---
 
-<div id="page">
-
 # Event Ideas
 
 *user group meetings
@@ -53,5 +51,3 @@ title: Event Ideas - Collexion
 
 
 *amplifier building workshop
-
-</div>
