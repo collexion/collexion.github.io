@@ -27,4 +27,4 @@ This workshop is for,
 
 Attending:
 
-[MikeD](-user:mikedillion.html)
+[MikeD](user:mikedillion)

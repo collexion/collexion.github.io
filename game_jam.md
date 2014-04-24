@@ -32,41 +32,31 @@ Happy jamming!
 
 Resources
 
-*HTML5/Javascript
+* HTML5/Javascript
 
-*[HTML5Gamer](http://html5gamer.com/), blog about playing and building HTML5 games
+* [HTML5Gamer](http://html5gamer.com/), blog about playing and building HTML5 games
 
-
-*[CraftyJS](http://craftyjs.com/), Javascript game engine (
+* [CraftyJS](http://craftyjs.com/), Javascript game engine (
 [tutorial](http://dailyjs.com/2011/02/11/crafty/))
 
+* [EaselJS](http://easeljs.com/), HTML5 canvas library
 
-*[EaselJS](http://easeljs.com/), HTML5 canvas library
-
-
-*[LimeJS](http://www.limejs.com/), Javascript game engine built with Google's 
+* [LimeJS](http://www.limejs.com/), Javascript game engine built with Google's 
 [Closure](http://code.google.com/closure/library/) library
 
+* [GTween.js](https://github.com/joshtynjala/gtween.js), a Javascript tweening library (change properties over time for animation)
 
-*[GTween.js](https://github.com/joshtynjala/gtween.js), a Javascript tweening library (change properties over time for animation)
+* [Modernizr](http://www.modernizr.com/), detect browser capabilities
 
+* [PhoneGap](http://www.phonegap.com/), HTML5 dev framework, supports mobile devices and sensors (camera, accelerometer, compass, geolocation)
 
-*[Modernizr](http://www.modernizr.com/), detect browser capabilities
+* [HTML5 Cross-browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills), fallbacks for missing HTML5 functionality
 
+* [canvg](https://code.google.com/p/canvg/), render SVG files and code to canvas elements
 
-*[PhoneGap](http://www.phonegap.com/), HTML5 dev framework, supports mobile devices and sensors (camera, accelerometer, compass, geolocation)
+* [Box2D-JS](https://github.com/thinkpixellab/box2d), a Javascript clone of the Box2D physics engine
 
+* Assets
 
-*[HTML5 Cross-browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills), fallbacks for missing HTML5 functionality
-
-
-*[canvg](https://code.google.com/p/canvg/), render SVG files and code to canvas elements
-
-
-*[Box2D-JS](https://github.com/thinkpixellab/box2d), a Javascript clone of the Box2D physics engine
-
-
-*Assets
-
-*[Giant list of assets](http://www.gamedev.net/topic/544073-free-2d3d-art-assets-09/), including the big huge TIGSource Assemblee competition 
+* [Giant list of assets](http://www.gamedev.net/topic/544073-free-2d3d-art-assets-09/), including the big huge TIGSource Assemblee competition 
 [asset page](http://www.derekyu.com/tigs/assemblee/)

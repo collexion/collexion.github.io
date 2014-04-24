@@ -5,119 +5,79 @@ title: Collexion Steampunk Dance Party 2010 - Collexion
 
 # Collexion Steampunk Dance Party 2010
 
-*Where: TBD
+* Where: TBD
 
-
-*When: November 19, 2010  -- from 8pm to ?We're going to dress in all steampunk and go dance.
+* When: November 19, 2010  -- from 8pm to ?We're going to dress in all steampunk and go dance.
 
 We're having another party in-house at 
-[Collexion](-collexion.html) too. This event will be sometime in the future, but here's some notes on it:
+[Collexion](collexion) too. This event will be sometime in the future, but here's some notes on it:
 
-##Contents
-
-*[1 
-People](#People)
-
-
-*[2 
-Ambiance](#Ambiance)
-
-
-*[3 
-Decorations](#Decorations)
-
-
-*[4 
-Prizes](#Prizes)
-
-
-*[5 
-Cast](#Cast)
-
-
-*[6 
-Pre-Party events](#Pre-Party_events)###People
+###People
 
 
 We need to contact these people to see how they might be involved. Feel free to do so and report back here.
 
-*[Collexion](-collexion.html)
+* [Collexion](collexion)
 
+* [Startup Weekend](/mw/index.php?title=Startup_Weekend&action=edit&redlink=1) ???
 
-*[Startup Weekend](/mw/index.php?title=Startup_Weekend&action=edit&redlink=1) ???
+* [Up Fair](http://mlatcomics.com/upfair/) ???
 
+* Local crafters ???
 
-*[Up Fair](http://mlatcomics.com/upfair/) ???
+* mecca dance??
 
+* [UK Miskatonic Club](http://www.ukmsu.org) ???
 
-*Local crafters ???
-
-
-*mecca dance??
-
-
-*[UK Miskatonic Club](http://www.ukmsu.org) ???
-
-
-*[Kentucky Steampunk Society](http://www.thesteampunkempire.com/group/kysteampunk) ???
+* [Kentucky Steampunk Society](http://www.thesteampunkempire.com/group/kysteampunk) ???
 
 ###Ambiance
 
 
-*Music
+* Music
 
-*dj … computer/mp3.. speaker system
+* dj … computer/mp3.. speaker system
 
+* What is steampunk music?
 
-*What is steampunk music?
+* Lighting
 
+* low lights
 
-*Lighting
-
-*low lights
-
-
-*mirror ball
+* mirror ball
 
 ###Decorations
 
 
-*Dirigible
+* Dirigible
 
+* fake fireplace
 
-*fake fireplace
+* steampunk time machine portal entrance
 
+* maypole
 
-*steampunk time machine portal entrance
+* tea cups
 
+* LED-flickering candlesticks?
 
-*maypole
-
-
-*tea cups
-
-
-*LED-flickering candlesticks?
-
-
-*Ornately framed paintings?
+* Ornately framed paintings?
 
 ###Prizes
 
 
-*badges: 
+* badges: 
 
-*most popular
+* most popular
 
 ###Cast
 
 
-*butlers, maids
+* butlers, maids
 
 ###Pre-Party events
 
 
-*film screenings: firefly... ??
+* film screenings: firefly... ??
 
-
-*goggle building workshop ???
+* goggle building workshop ???

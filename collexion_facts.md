@@ -15,4 +15,4 @@ Lexington KY
 
 Our Finances:
 
-[Finances](-finances.html) (Capitalist version)
+[Finances](finances) (Capitalist version)

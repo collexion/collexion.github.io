@@ -5,26 +5,11 @@ title: Potluck 1.0 - Collexion
 
 # Potluck 1.0
 
-##Contents
-
-*[1 
-GRΣK](#GR.CE.A3K)
-
-
-*[2 
-When](#When)
-
-
-*[3 
-Where](#Where)
-
-
-*[4 
-Chefs](#Chefs)##GRΣK
+##GRΣK
 
 
 We raised a bit of cash for 
-[Collexion](-collexion.html) and ate some tasty food.  The first theme 
+[Collexion](collexion) and ate some tasty food.  The first theme 
 was Mediterranean/Middle Eastern cuisine.
 
 ##When
@@ -35,13 +20,13 @@ was Mediterranean/Middle Eastern cuisine.
 ##Where
 
 
-[Collexion](-collexion.html)
+[Collexion](collexion)
 
 ##Chefs
 
 
-[Ashley Greer](-user:ashley.html) - Greek dolma (stuffed grape leaves) and hummus.  All vegan all the time.
+[Ashley Greer](user:ashley) - Greek dolma (stuffed grape leaves) and hummus.  All vegan all the time.
 
-[Dustin Mays](-user:nerdshark.html) - Falafel, flat bread, tzatziki, garlic yogurt sauce.
+[Dustin Mays](user:nerdshark) - Falafel, flat bread, tzatziki, garlic yogurt sauce.
 
-[Todd](-user:xtoddx.html) - Basmati Rice and marinated chicken.
+[Todd](user:xtoddx) - Basmati Rice and marinated chicken.

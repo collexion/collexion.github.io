@@ -4,6 +4,12 @@ require 'net/http'
 require 'nokogiri'
 require 'html2markdown'
 
+class HTMLPage
+  def parse_li node, contents
+    "* #{contents}"
+  end
+end
+
 module WikiExtract
 
   def self.run(site)
@@ -34,7 +40,7 @@ module WikiExtract
     title = title_from_doc(doc)
     first_heading = first_heading_from_doc(doc)
     content = content_doc(doc)
-    new_content = html(remove_comments(rewrite_links(first_heading, content)))
+    new_content = html(remove_toc(remove_comments(rewrite_links(first_heading, content))))
     page = build_page(title, first_heading, new_content)
     write_markdown_page(filename(first_heading), page)
   end
@@ -58,14 +64,19 @@ module WikiExtract
 
   def self.rewrite_link(link)
     newlink = link['href']
-    newlink.gsub!(/\/wiki/, '')
+    newlink.gsub!(/\/wiki\//, '')
     newlink.gsub!(' ', '_')
     newlink.gsub!('/', '-')
-    "#{newlink.downcase}.html"
+    "#{newlink.downcase}"
   end
 
   def self.remove_comments(doc)
     doc.xpath('//comment()').remove
+    doc
+  end
+
+  def self.remove_toc(doc)
+    doc.xpath('//table[@id = "toc"]').remove
     doc
   end
 

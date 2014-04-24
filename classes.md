@@ -5,91 +5,7 @@ title: Classes - Collexion
 
 # Classes
 
-##Contents
-
-*[1 
-Classes @ Collexion](#Classes_.40_Collexion)
-
-*[1.1 
-Fall Program Schedule](#Fall_Program_Schedule)
-
-*[1.1.1 
-Tuesday, Sept. 27, 6:30-9:00 PM: Welding in 60 Minutes](#Tuesday.2C_Sept._27.2C_6:30-9:00_PM:_Welding_in_60_Minutes)
-
-
-*[1.1.2 
-Mondays](#Mondays)
-
-
-*[1.1.3 
-Tuesdays](#Tuesdays)
-
-
-*[1.1.4 
-Wednesdays](#Wednesdays)
-
-
-*[1.1.5 
-Thursdays](#Thursdays)
-
-
-*[1.1.6 
-Fridays](#Fridays)
-
-
-*[1.1.7 
-TBD](#TBD)
-
-
-*[1.2 
-Class Details](#Class_Details)
-
-*[1.2.1 
-CNC Router Workshop](#CNC_Router_Workshop)
-
-
-*[1.2.2 
-Welding in 60 Minutes](#Welding_in_60_Minutes)
-
-
-*[1.2.3 
-Arduino Workshop](#Arduino_Workshop)
-
-
-*[1.2.4 
-Craftmaking with a 3D Printer](#Craftmaking_with_a_3D_Printer)
-
-
-*[1.2.5 
-Dream Hacking](#Dream_Hacking)
-
-
-*[1.2.6 
-Hackerspace  Workshop Development](#Hackerspace_Workshop_Development)
-
-
-*[1.2.7 
-Homebrew School](#Homebrew_School)
-
-
-*[1.2.8 
-Improvisational Acting](#Improvisational_Acting)
-
-
-*[1.2.9 
-OpenCV](#OpenCV)
-
-
-*[1.2.10 
-Ferment This!](#Ferment_This.21)
-
-
-*[1.3 
-Want to start your own class?](#Want_to_start_your_own_class.3F)
-
-
-*[1.4 
-Class Wish List (Don't see what you're looking for?)](#Class_Wish_List_.28Don.27t_see_what_you.27re_looking_for.3F.29)#Classes @ Collexion
+#Classes @ Collexion
 
 
 Collexion offers workshops and classes on a variety of technology, DIY, and life hacking topics. We suggest signing up early but you're always welcome to drop in! We'd love to have you participate! Most classes are free or have suggested donations that go to keep Collexion running. We're a non-profit, you know! Anyone is welcome to participate and anyone is welcome to start their own class on their topic of expertise or interest!
@@ -172,25 +88,19 @@ Learn the basics of MIG welding.  This is amateur hour - not intended for struct
 
 Wear clothing remarkably similar to this:
 
-*A full-face welder's mask -- REQUIRED! You can probably borrow one from a friend, or buy a cheapie at HF for around $20(?)  (Contact me if you can't find one...I have one clunker that will be adequate)
+* A full-face welder's mask -- REQUIRED! You can probably borrow one from a friend, or buy a cheapie at HF for around $20(?)  (Contact me if you can't find one...I have one clunker that will be adequate)
 
+* Nasty jeans
 
-*Nasty jeans
+* Closed-toe shoes
 
+* Sturdy long-sleeve all-cotton shirt (no melty polyester!) that you don't love very much
 
-*Closed-toe shoes
+* Baseball hat or cotton do-rag.
 
+* Gloves. You don't want massive fire-fighting gloves -- a pair of light leather or sturdy cotton garden gloves are adequate.
 
-*Sturdy long-sleeve all-cotton shirt (no melty polyester!) that you don't love very much
-
-
-*Baseball hat or cotton do-rag.
-
-
-*Gloves. You don't want massive fire-fighting gloves -- a pair of light leather or sturdy cotton garden gloves are adequate.
-
-
-*Clear face shield (preferred) or safety goggles.  Optional.Bring some clean steel bits if you want to make something pretty out of them.  Otherwise, we'll provide some scraps to play with.
+* Clear face shield (preferred) or safety goggles.  Optional.Bring some clean steel bits if you want to make something pretty out of them.  Otherwise, we'll provide some scraps to play with.
 
 If anyone can bring another welder students can use, that would give everyone more time under the hood.  Ditto for an angle grinder or two.
 
@@ -337,10 +247,8 @@ First of all, you rock! Take the first step and contact Nikolai Warner
 
 Can't find that Underwater Basketweaving you've been searching for?  Add it here!  No telling what skills lurk within your neighbor, just itching to invade your brain!
 
-*3D Modelling (particularly for CNC fabrication) (I want this: dhempy)
+* 3D Modelling (particularly for CNC fabrication) (I want this: dhempy)
 
+* Metal lathe (I want this: )
 
-*Metal lathe (I want this: )
-
-
-*Vertical mill (I want this: )
+* Vertical mill (I want this: )

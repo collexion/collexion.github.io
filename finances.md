@@ -6,20 +6,17 @@ title: Finances - Collexion
 # Finances
 
 Collexion is funded by monthly membership 
-[dues](-dues.html), donations, and grants.
+[dues](dues), donations, and grants.
 
 
 
 ##Monthly Budget
 
 
-*Rent: $300
+* Rent: $300
 
+* Insurance: $110
 
-*Insurance: $110
+* Internet: $150
 
-
-*Internet: $150
-
-
-*[Electric Bill](-electric_bill.html): ~$120
+* [Electric Bill](electric_bill): ~$120

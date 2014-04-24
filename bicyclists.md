@@ -18,13 +18,10 @@ Various, usually occuring multiple times a week.  Just post to the list if you w
 ##People
 
 
-*Ben Vandgrift - riding the Delong Road / Walnut Hill circuit, Tu, Tr, Sa
+* Ben Vandgrift - riding the Delong Road / Walnut Hill circuit, Tu, Tr, Sa
 
+* Todd Willey - Various routes in Scott, Fayette, and Clark Counties on weekends (15 Mi Average, open to longer though)
 
-*Todd Willey - Various routes in Scott, Fayette, and Clark Counties on weekends (15 Mi Average, open to longer though)
+* Ashley Greer - Big fan of the Legacy Trail.
 
-
-*Ashley Greer - Big fan of the Legacy Trail.
-
-
-*[Nikolaiwarner](-user:nikolaiwarner.html)
+* [Nikolaiwarner](user:nikolaiwarner)

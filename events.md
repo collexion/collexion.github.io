@@ -5,136 +5,7 @@ title: Events - Collexion
 
 # Events
 
-##Contents
-
-*[1 
-Current Events](#Current_Events)
-
-
-*[2 
-Regular Events](#Regular_Events)
-
-*[2.1 
-Every Monday & Tuesday](#Every_Monday_.26_Tuesday)
-
-
-*[2.2 
-Every Wednesday](#Every_Wednesday)
-
-
-*[2.3 
-Every Thursday](#Every_Thursday)
-
-
-*[2.4 
-Every Friday](#Every_Friday)
-
-
-*[2.5 
-Every Saturday](#Every_Saturday)
-
-
-*[2.6 
-Past Events](#Past_Events)
-
-*[2.6.1 
-May 7 2011](#May_7_2011)
-
-
-*[2.6.2 
-May 12 2011](#May_12_2011)
-
-
-*[2.6.3 
-May 20 2011](#May_20_2011)
-
-
-*[2.6.4 
-May 21 2011](#May_21_2011)
-
-
-*[2.6.5 
-May 26, 27, 28 2011](#May_26.2C_27.2C_28_2011)
-
-
-*[2.6.6 
-Saturday, March 26, 2011 2:20pm](#Saturday.2C_March_26.2C_2011_2:20pm)
-
-
-*[2.6.7 
-March 20, 2011 - info TBA](#March_20.2C_2011_-_info_TBA)
-
-
-*[2.6.8 
-March 10, 2011](#March_10.2C_2011)
-
-
-*[2.6.9 
-Saturday, February 26, 2011, 9am-1pm](#Saturday.2C_February_26.2C_2011.2C_9am-1pm)
-
-
-*[2.6.10 
-February 25, 2011](#February_25.2C_2011)
-
-
-*[2.6.11 
-February 17, 2011 - 7pm](#February_17.2C_2011_-_7pm)
-
-
-*[2.6.12 
-February 18, 2011 - 1pm](#February_18.2C_2011_-_1pm)
-
-
-*[2.6.13 
-February 16, 2011 - 9pm](#February_16.2C_2011_-_9pm)
-
-
-*[2.6.14 
-February 9, 2011 - 9:30pm](#February_9.2C_2011_-_9:30pm)
-
-
-*[2.6.15 
-Monday, December 13, 2010 - 6:30-7:30 PM](#Monday.2C_December_13.2C_2010_-_6:30-7:30_PM)
-
-
-*[2.6.16 
-December 10, 2010 - 8pm](#December_10.2C_2010_-_8pm)
-
-
-*[2.6.17 
-November 30, 2010 - 8pm](#November_30.2C_2010_-_8pm)
-
-
-*[2.6.18 
-November 23rd, 2010 - 8pm](#November_23rd.2C_2010_-_8pm)
-
-
-*[2.6.19 
-November 21rd, 2010 - 6pm](#November_21rd.2C_2010_-_6pm)
-
-
-*[2.6.20 
-November 19th, 2010 - 8pm](#November_19th.2C_2010_-_8pm)
-
-
-*[2.6.21 
-October 31st, 2010  - 4pm](#October_31st.2C_2010_-_4pm)
-
-
-*[2.6.22 
-October 25th, 2010 - 6pm](#October_25th.2C_2010_-_6pm)
-
-
-*[2.6.23 
-October 20th, 2010 - 6pm](#October_20th.2C_2010_-_6pm)
-
-
-*[2.6.24 
-October 10th, 2010 - 7pm](#October_10th.2C_2010_-_7pm)
-
-
-*[2.6.25 
-October 6th, 2010 - 6pm](#October_6th.2C_2010_-_6pm)##Current Events
+##Current Events
 
 
 
@@ -151,8 +22,8 @@ October 6th, 2010 - 6pm](#October_6th.2C_2010_-_6pm)##Current Events
 ###Every Monday & Tuesday
 
 
-[Local Crafters Gathering](-local_crafters_gathering.html) at 
-[Collexion](-collexion.html) Hackerspace, 7am - 9pm
+[Local Crafters Gathering](local_crafters_gathering) at 
+[Collexion](collexion) Hackerspace, 7am - 9pm
 
 
 
@@ -160,7 +31,7 @@ October 6th, 2010 - 6pm](#October_6th.2C_2010_-_6pm)##Current Events
 
 
 Weekly Collexion General Meeting and Open House at 
-[Collexion](-collexion.html) Hackerspace, 6pm - 9pm. A formally informal get-together for nerds to talk and hack! A great time to come if you're new or hackcurious!
+[Collexion](collexion) Hackerspace, 6pm - 9pm. A formally informal get-together for nerds to talk and hack! A great time to come if you're new or hackcurious!
 
 Weekly Collexion IRC Meetup, 9pm. Join the fun and meet some new virtual friends in our IRC chatroom!
 
@@ -172,7 +43,7 @@ Weekly Collexion IRC Meetup, 9pm. Join the fun and meet some new virtual friends
 ###Every Friday
 
 
-[Collexion & Friends](-collexion_%26_friends.html) Lunch Meetup, 1pm. Restaurant varies, check the email list.
+[Collexion & Friends](collexion_%26_friends) Lunch Meetup, 1pm. Restaurant varies, check the email list.
 
 
 
@@ -201,13 +72,11 @@ OTS Show: Great Architects
 ###May 20 2011
 
 
-*Buildycrunken
+* Buildycrunken
 
+* [Game Jam](game_jam)
 
-*[Game Jam](-game_jam.html)
-
-
-*Spring Dance Party###May 21 2011
+* Spring Dance Party###May 21 2011
 
 
 Tatsuya Nakatani bringing his Gong Orchestra
@@ -218,7 +87,7 @@ Tatsuya Nakatani bringing his Gong Orchestra
 
 
 Collexion Camping Trip Weekend!! (
-[more details...](-collexion_goes_to_camp.html))
+[more details...](collexion_goes_to_camp))
 
 
 
@@ -226,10 +95,10 @@ Collexion Camping Trip Weekend!! (
 
 
 Hands-on Workshop: 5 Fun Ways to use the WebControl Class in ASP.Net by 
-[ashleygreer](-user:ashley.html)
+[ashleygreer](user:ashley)
 
 Bring a laptop with Visual Studio installed (
-[more details...](-beginning_asp.net_webcontrol_workshop.html))
+[more details...](beginning_asp.net_webcontrol_workshop))
 
 
 
@@ -252,11 +121,11 @@ CMKT4 Circuit Bending Workshop
 ###Saturday, February 26, 2011, 9am-1pm
 
 
-[Collexion](-collexion.html) exhibits at UK's 
+[Collexion](collexion) exhibits at UK's 
 [Engineers Day Open House](http://www.engr.uky.edu/eday/2011/index.html)
 
 Want to see what we did? 
-[click here!](-e-day_2011.html)
+[click here!](e-day_2011)
 
 
 
@@ -278,7 +147,7 @@ Collexion Book Club - new book! come out!
 
 
 Collexion 
-[Potluck 1.0](-potluck_1.0.html) - Get Your GRΣΣK On
+[Potluck 1.0](potluck_1.0) - Get Your GRΣΣK On
 
 
 
@@ -319,32 +188,32 @@ FUMA (Tripp Bratton, Nick Coleman, Jacob Hamrick, Dave Farris, Farhad Rezaei, No
 
 
 Tatsuya Nakatani performs at 
-[Collexion](-collexion.html) - 8pm start time, all ages, more info coming soon
+[Collexion](collexion) - 8pm start time, all ages, more info coming soon
 
 ###November 23rd, 2010 - 8pm
 
 
 jazz show at 
-[Collexion](-collexion.html) - Ballister  (Dave Rempis, Fred Lonberg-Holm, and Paal Nilssen-Love) - 8pm start time, $5 donation for band, all ages
+[Collexion](collexion) - Ballister  (Dave Rempis, Fred Lonberg-Holm, and Paal Nilssen-Love) - 8pm start time, $5 donation for band, all ages
 
 ###November 21rd, 2010 - 6pm
 
 
 music at 
-[collexion](-collexion.html) -  Justin Vollmar and Veterans - $5 suggested donation for band, and why not pay your 
-[Dues](-dues.html) while you're at it..... all ages
+[collexion](collexion) -  Justin Vollmar and Veterans - $5 suggested donation for band, and why not pay your 
+[Dues](dues) while you're at it..... all ages
 
 ###November 19th, 2010 - 8pm
 
 
-[Collexion Steampunk Dance Party 2010](-collexion_steampunk_dance_party_2010.html) presented by the 
-[Lexingtonian Victorian Society](-lexingtonian_victorian_society.html)  - Dress in your wildest victorian/steampunk costume... dance the night away, mcfly
+[Collexion Steampunk Dance Party 2010](collexion_steampunk_dance_party_2010) presented by the 
+[Lexingtonian Victorian Society](lexingtonian_victorian_society)  - Dress in your wildest victorian/steampunk costume... dance the night away, mcfly
 
 ###October 31st, 2010  - 4pm
 
 
 jazz show at 
-[Collexion](-collexion.html) - Chicago-Luzern Exchange (from Chivegas & Switzerland) 
+[Collexion](collexion) - Chicago-Luzern Exchange (from Chivegas & Switzerland) 
 $5 donation for band (hoping the early start time will separate the show from other halloween destinations/extravaganzas)
 
 ###October 25th, 2010 - 6pm
@@ -357,7 +226,7 @@ $15 for kit... free i think to just watch.
 
 
 general meeting and 
-[xtoddx's D-teenth birthday celebration](-meeting_-_general_-_20101020.html)
+[xtoddx's D-teenth birthday celebration](meeting_-_general_-_20101020)
 
 ###October 10th, 2010 - 7pm
 
@@ -368,4 +237,4 @@ jazz show at collexionhackerspace - Vox Arcana (from Chicago)
 
 
 screenprinting workshop collexionhackerspace - Nikolai Warner presents "screen -x | 
-[Hacking Screenprinting: Lesson 1](-hacking_screenprinting:_lesson_1.html)"
+[Hacking Screenprinting: Lesson 1](hacking_screenprinting:_lesson_1)"

@@ -13,28 +13,21 @@ To start with, let's review how insulation works and what our goals are in this 
 ##Options
 
 
-*Drop ceiling
+* Drop ceiling
+
+* Drop ceiling plus blown-in insulation or backing insulation
+
+* Fiberglass insulation with backing and fireproofing
+
+* Laminate for windows (strengthens and returns UV, infrared rays)
+
+* Urethane spray foam
+
+* Others?##Heating
 
 
-*Drop ceiling plus blown-in insulation or backing insulation
+* List some electric options here
 
+* Let's not do gas or fuel, as we do use solvents and like to play with welding
 
-*Fiberglass insulation with backing and fireproofing
-
-
-*Laminate for windows (strengthens and returns UV, infrared rays)
-
-
-*Urethane spray foam
-
-
-*Others?##Heating
-
-
-*List some electric options here
-
-
-*Let's not do gas or fuel, as we do use solvents and like to play with welding
-
-
-*Wood burning could be OK as well, but it takes a while and there is still open flame
+* Wood burning could be OK as well, but it takes a while and there is still open flame

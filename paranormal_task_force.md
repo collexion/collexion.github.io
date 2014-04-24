@@ -15,19 +15,15 @@ We are a group of Humans who's mission is to debunk paranormal junk. And then ha
 ##Goals
 
 
-*Identify ghost
+* Identify ghost
+
+* Communicate with ghost
+
+* Employ ghosts for outsourced menial programming work on the cheap
+
+* Or, scientifically disprove them##People
 
 
-*Communicate with ghost
+* [MikeD](user:mikedillion) (Ghostbuster extraordinaire)
 
-
-*Employ ghosts for outsourced menial programming work on the cheap
-
-
-*Or, scientifically disprove them##People
-
-
-*[MikeD](-user:mikedillion.html) (Ghostbuster extraordinaire)
-
-
-*[Nikolaiwarner](-user:nikolaiwarner.html)
+* [Nikolaiwarner](user:nikolaiwarner)

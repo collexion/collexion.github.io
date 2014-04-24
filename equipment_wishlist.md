@@ -8,222 +8,141 @@ title: Equipment Wishlist - Collexion
 PLEASE: include the thing you want to the list.
 
 NOTE: If you are going to provide a thing to Collexion, mark whatever you have to donate with your name. Then bring it in and remove the item from this page and add it to our 
-[Equipment](-equipment.html) Inventory page
+[Equipment](equipment) Inventory page
 
-##Contents
-
-*[1 
-Building Amenities/Comforts](#Building_Amenities.2FComforts)
+##Building Amenities/Comforts
 
 
-*[2 
-General Tools](#General_Tools)
+* => 32" LCD TV
 
+* Signage
 
-*[3 
-Electronics Tools](#Electronics_Tools)
+* Video Game Consoles
 
-
-*[4 
-Crafting](#Crafting)
-
-
-*[5 
-Large/Expensive Tools](#Large.2FExpensive_Tools)
-
-
-*[6 
-Biology/Chemistry](#Biology.2FChemistry)##Building Amenities/Comforts
-
-
-*=> 32" LCD TV
-
-
-*Signage
-
-
-*Video Game Consoles
-
-
-*ladder: 
+* ladder: 
 [[1]](http://www.google.com/products/catalog?cid=17002129223759513596)
 
+* Window blinds
 
-*Window blinds
+* Ceiling fans##General Tools
 
 
-*Ceiling fans##General Tools
+* Power Drills
 
+* Drill Bit sets for various materials
 
-*Power Drills
+* bike tools
 
+* Hammers
 
-*Drill Bit sets for various materials
+* Screwdrivers: Philips, Flat, Torx, Allen. (Mike D)
 
+* Wrenches (Mike D)
 
-*bike tools
+* Ratchet Set (Mike D)
 
+* Pliers
 
-*Hammers
+* Bench Vises
 
+* Dremel (Patrick S.)
 
-*Screwdrivers: Philips, Flat, Torx, Allen. (Mike D)
+* Hack Saw (Patrick S.)
 
+* Extension Cords / Power Strips
 
-*Wrenches (Mike D)
+* Wet/Dry Vac.
 
+* Utility Knives
 
-*Ratchet Set (Mike D)
+* Angle Grinder (ToddW)
 
+* Sawzall
 
-*Pliers
+* Clamps
 
+* Squares
 
-*Bench Vises
+* Levels (Patrick S.)
 
+* Duct/Gaffer's Tape
 
-*Dremel (Patrick S.)
+* Tape Measures
 
+* Bench Grinder
 
-*Hack Saw (Patrick S.)
+* Assorted Glues/Adhesives
 
+* Mitre Box (Patrick S.)
 
-*Extension Cords / Power Strips
+* Hand Truck (Patrick S.)##Electronics Tools
 
 
-*Wet/Dry Vac.
+* Soldering Station (James Osborne)
 
+* Soldering Irons
 
-*Utility Knives
+* Alligator Clips (Patrick S.)
 
+* Digital Multimeters
 
-*Angle Grinder (ToddW)
+* Helping Hands
 
+* Arm-Mounted Magnifying Glasses
 
-*Sawzall
+* Oscilloscope
 
+* Breadboards
 
-*Clamps
+* Arduino kits
 
+* ham radio
 
-*Squares
+* RFID kit
 
+* Atmel STK500 + AVR Dragon microcontroller kit (James Osborne)
 
-*Levels (Patrick S.)
+* Components (Resistors, Capacitors, etc.)
 
+* Component storage##Crafting
 
-*Duct/Gaffer's Tape
 
+* sewing machine (AshleyG)
 
-*Tape Measures
+* Fabric Scissors
 
+* Thread
 
-*Bench Grinder
+* LilyPad Arduino##Large/Expensive Tools
 
 
-*Assorted Glues/Adhesives
+* Lathe
 
+* Letter Press
 
-*Mitre Box (Patrick S.)
+* [Laser Cutter](http://buildlog.net/cnc_laser/store/2x_kits_and_parts.php)
 
+* Welder
 
-*Hand Truck (Patrick S.)##Electronics Tools
+* Multi-touch table
 
+* green laser
 
-*Soldering Station (James Osborne)
+* Telescope
 
+* a loom##Biology/Chemistry
 
-*Soldering Irons
 
+* Test Tubes w/ Rack (Patrick S)
 
-*Alligator Clips (Patrick S.)
+* Latex Gloves
 
+* Microscopes
 
-*Digital Multimeters
+* Petri Dishes
 
+* Burners
 
-*Helping Hands
+* Glassware
 
-
-*Arm-Mounted Magnifying Glasses
-
-
-*Oscilloscope
-
-
-*Breadboards
-
-
-*Arduino kits
-
-
-*ham radio
-
-
-*RFID kit
-
-
-*Atmel STK500 + AVR Dragon microcontroller kit (James Osborne)
-
-
-*Components (Resistors, Capacitors, etc.)
-
-
-*Component storage##Crafting
-
-
-*sewing machine (AshleyG)
-
-
-*Fabric Scissors
-
-
-*Thread
-
-
-*LilyPad Arduino##Large/Expensive Tools
-
-
-*Lathe
-
-
-*Letter Press
-
-
-*[Laser Cutter](http://buildlog.net/cnc_laser/store/2x_kits_and_parts.php)
-
-
-*Welder
-
-
-*Multi-touch table
-
-
-*green laser
-
-
-*Telescope
-
-
-*a loom##Biology/Chemistry
-
-
-*Test Tubes w/ Rack (Patrick S)
-
-
-*Latex Gloves
-
-
-*Microscopes
-
-
-*Petri Dishes
-
-
-*Burners
-
-
-*Glassware
-
-
-*Scales
+* Scales

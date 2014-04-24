@@ -12,15 +12,13 @@ There are no rules, no pressure, just fun. The presenter could show a movie, or 
 ##Presenter Schedule
 
 
-*March 9 - 7:30pm: nikolaiwarner
+* March 9 - 7:30pm: nikolaiwarner
 
-
-*Who's next?....
+* Who's next?....
 
 ##Presenters: Preparing For Your Event
 
 
-*Don't worry. Just have fun.
+* Don't worry. Just have fun.
 
-
-*Prepare a little, not a lot. Go with our flow.
+* Prepare a little, not a lot. Go with our flow.

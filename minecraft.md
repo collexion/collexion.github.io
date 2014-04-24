@@ -9,29 +9,7 @@ We now have a minecraft server! It is very much a WIP at the moment, but it will
 
 URL: minecraft.collexion.net
 
-##Contents
-
-*[1 
-Installed Plugins](#Installed_Plugins)
-
-
-*[2 
-Recommended Client-side Plugins](#Recommended_Client-side_Plugins)
-
-
-*[3 
-Commands](#Commands)
-
-*[3.1 
-General](#General)
-
-
-*[3.2 
-Player](#Player)
-
-
-*[3.3 
-Admin](#Admin)###Installed Plugins
+###Installed Plugins
 
 
 ****

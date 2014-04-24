@@ -5,10 +5,8 @@ title: Roadmap - Collexion
 
 # Roadmap
 
-*reach financial sustainability
+* reach financial sustainability
 
+* become a full 501c3 nonprofit
 
-*become a full 501c3 nonprofit
-
-
-* ?
+*  ?

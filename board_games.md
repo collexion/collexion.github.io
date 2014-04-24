@@ -8,19 +8,15 @@ title: Board Games - Collexion
 #Next Board Game Meetup
 
 
-*To Be Determined#List of Games and Owners
+* To Be Determined#List of Games and Owners
 
 
-*Monopoly: Original (Thomas D'Andrea)
+* Monopoly: Original (Thomas D'Andrea)
 
+* Risk (Thomas D'Andrea)
 
-*Risk (Thomas D'Andrea)
+* Twister (Nikolaiwarner)
 
+* Playing It Off (Nikolaiwarner)
 
-*Twister (Nikolaiwarner)
-
-
-*Playing It Off (Nikolaiwarner)
-
-
-*Settlers of Catan (Nikolaiwarner)
+* Settlers of Catan (Nikolaiwarner)

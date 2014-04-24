@@ -14,4 +14,4 @@ To have fun. And do it on a table.
 
 
 Gaming every Saturday night at 
-[Game Night](-game_night.html)
+[Game Night](game_night)

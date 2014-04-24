@@ -9,93 +9,69 @@ Interest has grown about creating weather stations and setting up a data input i
 
 We can build a 1-Wire Weather Station using the Weather Toys book as a source. The book is broken down into 3 parts.
 
-*Introduction to weather, introduction to weather stations, and introduction to 1-wire devices.
+* Introduction to weather, introduction to weather stations, and introduction to 1-wire devices.
 
+* Build a Weather Station
 
-*Build a Weather Station
+* Temperature
 
-*Temperature
+* Wind Speed and Wind Direction
 
+* Humidity
 
-*Wind Speed and Wind Direction
+* Barometric Pressure
 
+* Rainfall
 
-*Humidity
+* Lightning
 
+* Expanding the Weather Station
 
-*Barometric Pressure
+* Build a Weather Web Server
 
+* Turn Appliances On or Off Based on Weather
 
-*Rainfall
+* Add an LED display
 
+* Build a Smart Sprinker Timer
 
-*Lightning
+* Build a Home Thermostat
 
-
-*Expanding the Weather Station
-
-*Build a Weather Web Server
-
-
-*Turn Appliances On or Off Based on Weather
-
-
-*Add an LED display
-
-
-*Build a Smart Sprinker Timer
-
-
-*Build a Home Thermostat
-
-
-*Build a Stand-Alone Weather Station (no PC required)
+* Build a Stand-Alone Weather Station (no PC required)
 
 ##Educational Sources
 
 
-*[Weather Toys](http://www.weathertoys.net/weathertoys/main.html)
+* [Weather Toys](http://www.weathertoys.net/weathertoys/main.html)
+
+* [One-Wire Weather Source Forge Software](http://oww.sourceforge.net/)
+
+* [Ardent Data Wiki on ADS-WS1](http://wiki.argentdata.com/index.php?title=ADS-WS1)##Purchasing Sources
 
 
-*[One-Wire Weather Source Forge Software](http://oww.sourceforge.net/)
+* [1-Wire Weather Station Components](http://www.hobby-boards.com/catalog/main_page.php)
 
+* [Davis Pro-2 Complete Weather Station](http://www.davisnet.com)
 
-*[Ardent Data Wiki on ADS-WS1](http://wiki.argentdata.com/index.php?title=ADS-WS1)##Purchasing Sources
+* [La Crosse Technology Complete Weather Stations](http://www.lacrossetechnology.com)
 
+* [AAG Electronica](http://www.aagelectronica.com)
 
-*[1-Wire Weather Station Components](http://www.hobby-boards.com/catalog/main_page.php)
+* [Maxim Integrated Products](http://www.maxim-ic.com)
 
-
-*[Davis Pro-2 Complete Weather Station](http://www.davisnet.com)
-
-
-*[La Crosse Technology Complete Weather Stations](http://www.lacrossetechnology.com)
-
-
-*[AAG Electronica](http://www.aagelectronica.com)
-
-
-*[Maxim Integrated Products](http://www.maxim-ic.com)
-
-
-*[iButton Solution Search](http://www.maxim-ic.com/products/ibutton/solutions/product.cfm?ID=269)
+* [iButton Solution Search](http://www.maxim-ic.com/products/ibutton/solutions/product.cfm?ID=269)
 
 ##Project Planning
 
 
-*Determine hardware requirements
+* Determine hardware requirements
 
+* Determine costs for hardware
 
-*Determine costs for hardware
+* Determine members interested in purchasing
 
+* Hold planning meeting
 
-*Determine members interested in purchasing
+* Hold design meeting
 
-
-*Hold planning meeting
-
-
-*Hold design meeting
-
-
-*Profit!
+* Profit!

@@ -8,40 +8,28 @@ title: Equipment - Collexion
 ##Collexion Equipment Inventory
 
 
-*Air Compressor (dhempy)
+* Air Compressor (dhempy)
 
+* Metal-cutting band saw (dhempy)
 
-*Metal-cutting band saw (dhempy)
+* 2 squares of pegboard (mick)
 
+* Motion sensor security floodlight (mick)
 
-*2 squares of pegboard (mick)
+* Hammer (mick)
 
+* Staple Guns (Mick – 2)
 
-*Motion sensor security floodlight (mick)
+* Hack saw (Mick)
 
+* tool belt/caddy (mick)
 
-*Hammer (mick)
+* Dust Masks (Mick)
 
+* Crowbar (Mick)
 
-*Staple Guns (Mick – 2)
+* AC adapters/splitters (Mick)
 
+* speaker wire (mick)
 
-*Hack saw (Mick)
-
-
-*tool belt/caddy (mick)
-
-
-*Dust Masks (Mick)
-
-
-*Crowbar (Mick)
-
-
-*AC adapters/splitters (Mick)
-
-
-*speaker wire (mick)
-
-
-*Drill Press (dhempy)
+* Drill Press (dhempy)

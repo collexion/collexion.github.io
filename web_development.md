@@ -18,13 +18,10 @@ There are no regularly occuring events.  Special events are posted to the mailin
 ##People
 
 
-*Ben Vandgrift - Ruby, on or off of Rails, PHP, Javascript, and the usual markup.  Lamp stack, or nginx/thin|mongrel.
+* Ben Vandgrift - Ruby, on or off of Rails, PHP, Javascript, and the usual markup.  Lamp stack, or nginx/thin|mongrel.
 
+* Todd Willey - Owner of Rubidine, works best with Ruby, Apache, Unix, and MySQL.
 
-*Todd Willey - Owner of Rubidine, works best with Ruby, Apache, Unix, and MySQL.
+* jas Osborne - Languages: PHP/Python, Framework: CakePHP, OtherCrap: SVG/Canvas/WebSockets/MVC, System: Opera/Debian/Apache/Mysql (ODAM)
 
-
-*jas Osborne - Languages: PHP/Python, Framework: CakePHP, OtherCrap: SVG/Canvas/WebSockets/MVC, System: Opera/Debian/Apache/Mysql (ODAM)
-
-
-*[Nikolaiwarner](-user:nikolaiwarner.html) - hugs and kisses
+* [Nikolaiwarner](user:nikolaiwarner) - hugs and kisses

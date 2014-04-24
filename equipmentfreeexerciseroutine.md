@@ -5,42 +5,7 @@ title: EquipmentFreeExerciseRoutine - Collexion
 
 # EquipmentFreeExerciseRoutine
 
-##Contents
-
-*[1 
-Warm up](#Warm_up)
-
-
-*[2 
-Workout A:](#Workout_A:)
-
-
-*[3 
-Workout B:](#Workout_B:)
-
-
-*[4 
-Workout C:](#Workout_C:)
-
-
-*[5 
-Workout D:](#Workout_D:)
-
-
-*[6 
-Workout E:](#Workout_E:)
-
-
-*[7 
-Workout F:](#Workout_F:)
-
-
-*[8 
-Workout G:](#Workout_G:)
-
-
-*[9 
-31 Day Workout Plan](#31_Day_Workout_Plan)##Warm up
+##Warm up
 
 
 Warm Up before the workout with 3-5 minutes of jumping jacks or jogging in place.

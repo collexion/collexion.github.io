@@ -10,109 +10,76 @@ These are massive projects that can involve everyone's skills:
 ##Current
 
 
-*[CNC](-cnc.html)##In The Future
+* [CNC](cnc)##In The Future
 
 
-*[Barbot](-barbot.html)
+* [Barbot](barbot)
 
+* [1-Wire Weather Stations](1-wire_weather_stations)
 
-*[1-Wire Weather Stations](-1-wire_weather_stations.html)
+* [Solar Dehydrator](solar_dehydrator)
 
+* [Shop Insulation](shop_insulation)
 
-*[Solar Dehydrator](-solar_dehydrator.html)
+* cardboard boat building
 
+* game dev club
 
-*[Shop Insulation](-shop_insulation.html)
+* Giant Robot, possibly fire-breathing
 
+* Rocket Cars
 
-*cardboard boat building
+* Build HERF Gun
 
+* Get involved in building CI software: Cici Hack Challenge
 
-*game dev club
+* Bluetooth people tracking
 
+* carbon fiber creations
 
-*Giant Robot, possibly fire-breathing
+* lightweight hammock fabrication
 
+* line following robot with cutter -- diabolical CNC monster
 
-*Rocket Cars
+* multi-touch table/wall-mounted display
 
+* head-mounted displays
 
-*Build HERF Gun
+* LCD projector
 
+* 3D augmented reality UI (with HMDs)
 
-*Get involved in building CI software: Cici Hack Challenge
+* custom lasertag system
 
+* Overhead projector + LCD screen = computar projector
 
-*Bluetooth people tracking
+* Build a better coffee straw
 
+* Build a better thermos for commuting on a bike
 
-*carbon fiber creations
+* Collexion Creation Kit: A LiveCD / Distro loaded with tools and tutorials for making digital things.
 
+* MAME cabinet
 
-*lightweight hammock fabrication
+* Bizarre musical instrument design, creation, and performance.
 
+* Build device to open/close blinds, vents, fans, or other passive/low energy climate controls in the Collexion shop. (arduino?)##Games
 
-*line following robot with cutter -- diabolical CNC monster
 
+* street bowling
 
-*multi-touch table/wall-mounted display
+* mechanical peggle
 
+* iphone game where you see how high you can throw the phone. (Genius!!! Who thought of this?)
 
-*head-mounted displays
+* make genesis game and burn cartridges
 
+* molding and casting our own custom role playing minis
 
-*LCD projector
+* life-size settlers of catan game
 
+* 2D game creation: todd and steev have some ideas
 
-*3D augmented reality UI (with HMDs)
+* Twister spinner iPhone app
 
-
-*custom lasertag system
-
-
-*Overhead projector + LCD screen = computar projector
-
-
-*Build a better coffee straw
-
-
-*Build a better thermos for commuting on a bike
-
-
-*Collexion Creation Kit: A LiveCD / Distro loaded with tools and tutorials for making digital things.
-
-
-*MAME cabinet
-
-
-*Bizarre musical instrument design, creation, and performance.
-
-
-*Build device to open/close blinds, vents, fans, or other passive/low energy climate controls in the Collexion shop. (arduino?)##Games
-
-
-*street bowling
-
-
-*mechanical peggle
-
-
-*iphone game where you see how high you can throw the phone. (Genius!!! Who thought of this?)
-
-
-*make genesis game and burn cartridges
-
-
-*molding and casting our own custom role playing minis
-
-
-*life-size settlers of catan game
-
-
-*2D game creation: todd and steev have some ideas
-
-
-*Twister spinner iPhone app
-
-
-*Spray paint a twister board on the floor
+* Spray paint a twister board on the floor

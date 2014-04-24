@@ -5,16 +5,12 @@ title: Lecture Ideas - Collexion
 
 # Lecture Ideas
 
-*Arduino
+* Arduino
 
+* Using Story Cards
 
-*Using Story Cards
+* Intellectual property
 
+* Amazon Web Services
 
-*Intellectual property
-
-
-*Amazon Web Services
-
-
-*Creative Commons, Copy Left, etc.
+* Creative Commons, Copy Left, etc.

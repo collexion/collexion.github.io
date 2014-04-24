@@ -13,50 +13,26 @@ We grabbed frames from our networked webcam during the build and cut it into a t
 
 
 
-*while true; do sleep 10; wget http://172.30.1.253/jpg/image.jpg; mv image.jpg `date +%Y%m%d%H%M%S`_makerbot.jpg; doneor, remotely:
+* while true; do sleep 10; wget http://172.30.1.253/jpg/image.jpg; mv image.jpg `date +%Y%m%d%H%M%S`_makerbot.jpg; doneor, remotely:
 
-*while true; do sleep 60; wget http://lamecam.com/collexion/cam0.jpg; mv cam0.jpg `date +%Y%m%d%H%M%S`_makerbot.jpg; done;(as of Mon Feb 28 00:30 this is now happening server-side on lamecam.  Bit late, I know, but...)
-
-
-
-##Contents
-
-*[1 
-2/26/2011 — Initial build session. All parts packages accounted for.](#2.2F26.2F2011_.E2.80.94_Initial_build_session._All_parts_packages_accounted_for.)
+* while true; do sleep 60; wget http://lamecam.com/collexion/cam0.jpg; mv cam0.jpg `date +%Y%m%d%H%M%S`_makerbot.jpg; done;(as of Mon Feb 28 00:30 this is now happening server-side on lamecam.  Bit late, I know, but...)
 
 
-*[2 
-3/2/2011 — Second build session. Massive progress.](#3.2F2.2F2011_.E2.80.94_Second_build_session._Massive_progress.)
 
-
-*[3 
-3/9/2011 — Build Session The Thirde.](#3.2F9.2F2011_.E2.80.94_Build_Session_The_Thirde.)
-
-
-*[4 
-3/16/2011 — All Wired Up.](#3.2F16.2F2011_.E2.80.94_All_Wired_Up.)
-
-
-*[5 
-3/23/2011 — Hot Wet Circuits.](#3.2F23.2F2011_.E2.80.94_Hot_Wet_Circuits.)
-
-
-*[6 
-3/30/2011 — Hot Wet Plastic.](#3.2F30.2F2011_.E2.80.94_Hot_Wet_Plastic.)##2/26/2011 — Initial build session. All parts packages accounted for.
+##2/26/2011 — Initial build session. All parts packages accounted for.
 
 
 Tools to bring to the space for build sessions:
 
-*Utility knife and/or scissors
+* Utility knife and/or scissors
 
+* Needle-nose pliers
 
-*Needle-nose pliers
+[![](/mw/images/1/14/Broken_rib_front.jpg)](file:broken_rib_front.jpg)  
+[![](/mw/skins/common/images/magnify-clip.png)](file:broken_rib_front.jpg)Broken rib, front
 
-[![](/mw/images/1/14/Broken_rib_front.jpg)](-file:broken_rib_front.jpg.html)  
-[![](/mw/skins/common/images/magnify-clip.png)](-file:broken_rib_front.jpg.html)Broken rib, front
-
-[![](/mw/images/f/fa/Broken_rib_back.jpg)](-file:broken_rib_back.jpg.html)  
-[![](/mw/skins/common/images/magnify-clip.png)](-file:broken_rib_back.jpg.html)Broken rib, back
+[![](/mw/images/f/fa/Broken_rib_back.jpg)](file:broken_rib_back.jpg)  
+[![](/mw/skins/common/images/magnify-clip.png)](file:broken_rib_back.jpg)Broken rib, back
 
 We broke one of the Automated Build Platform's wooden ribs (with bushings for the drive rods). Some of the corners are really delicate. We repaired it with epoxy inside, a dab of hot glue outside, and marked the joint with black arrows in case it causes problems down the road.
 
@@ -68,36 +44,30 @@ very tight (UPDATE: it's
 
 Accomplished:
 
-*FINISHED - X-stage (Automated Build Platform)
+* FINISHED - X-stage (Automated Build Platform)
 
+* FINISHED - Y-stage
 
-*FINISHED - Y-stage
+* FINISHED - Z-stage
 
+* FINISHED - Motherboard firmware update
 
-*FINISHED - Z-stage
+* FINISHED - Extruder firmware updateIn Progress:
 
-
-*FINISHED - Motherboard firmware update
-
-
-*FINISHED - Extruder firmware updateIn Progress:
-
-*Extruder assembly in progress (Next step: 
+* Extruder assembly in progress (Next step: 
 [Superglue spacer feet to support](http://wiki.makerbot.com/stepstruder-mk6-assembly-3mm#toc59).)
 
+* Electronics mounting in progressFor next time:
 
-*Electronics mounting in progressFor next time:
-
-*Check X-stage belt's tooth count; it's really loose, and it may be the wrong one -- It appears that the X-stage motor just needs to be adjusted by pulling the left top cap off the Y-stage assembly and sliding the motor to take up the slack.
-
+* Check X-stage belt's tooth count; it's really loose, and it may be the wrong one -- It appears that the X-stage motor just needs to be adjusted by pulling the left top cap off the Y-stage assembly and sliding the motor to take up the slack.
 
 *
 
 ##3/2/2011 — Second build session. Massive progress.
 
 
-[![](/mw/images/2/2f/Session_2_photo_1.jpg)](-file:session_2_photo_1.jpg.html)  
-[![](/mw/skins/common/images/magnify-clip.png)](-file:session_2_photo_1.jpg.html)Collexion folk working through the electronics, extruder, and body assembly
+[![](/mw/images/2/2f/Session_2_photo_1.jpg)](file:session_2_photo_1.jpg)  
+[![](/mw/skins/common/images/magnify-clip.png)](file:session_2_photo_1.jpg)Collexion folk working through the electronics, extruder, and body assembly
 
 With the X, Y, and Z stages complete, we took to assembling the body, mounting the rest of the electronics, and continuing work on the extruder.
 
@@ -109,8 +79,8 @@ The second problem was that the motor needed to be mounted all the way at the ba
 
 
 
-[![](/mw/images/5/54/Session_2_photo_2.jpg)](-file:session_2_photo_2.jpg.html)  
-[![](/mw/skins/common/images/magnify-clip.png)](-file:session_2_photo_2.jpg.html)The box is shaping up! Extruder, too!
+[![](/mw/images/5/54/Session_2_photo_2.jpg)](file:session_2_photo_2.jpg)  
+[![](/mw/skins/common/images/magnify-clip.png)](file:session_2_photo_2.jpg)The box is shaping up! Extruder, too!
 
 The body assembly instructions never really say at what point you're supposed to screw the body together. We're just going to do it. The body setup also calls for five M4x50mm bolts, but our kit only contained three. We've only needed one so far, so our fingers are crossed.
 
@@ -123,36 +93,29 @@ Lots of progress. We might have this thing licked at our next build session!
 
 Accomplished:
 
-*FINISHED - Mounting electronicsIn Progress:
+* FINISHED - Mounting electronicsIn Progress:
 
-*Extruder assembly
+* Extruder assembly
 
+* Body assemblyFor next time:
 
-*Body assemblyFor next time:
+* Adjust the X-stage drive belt; pull off the Y-stage's left top cap, loosen motor mount bolts, slide the motor back until all the slack is out of the belt, and retighten.
 
-*Adjust the X-stage drive belt; pull off the Y-stage's left top cap, loosen motor mount bolts, slide the motor back until all the slack is out of the belt, and retighten.
+* Build an RJ-45-terminated cable for the extruder control board
 
-
-*Build an RJ-45-terminated cable for the extruder control board
-
-
-*Finish extruder assembly (Next step? Maybe 
+* Finish extruder assembly (Next step? Maybe 
 [Insulate wires](http://wiki.makerbot.com/stepstruder-mk6-assembly-3mm#toc76)?)
 
+* Test extruder per instructions
 
-*Test extruder per instructions
+* Finish body assembly
 
+* Screw the body panels together for real
 
-*Finish body assembly
-
-*Screw the body panels together for real
-
-
-*Finish securing the XY stage rods as detailed in: 
+* Finish securing the XY stage rods as detailed in: 
 [Adding XY stage](http://wiki.makerbot.com/thingomatic-doc:body-assembly#toc17)
 
-
-*Then resume the build at: 
+* Then resume the build at: 
 [Adding Z stage](http://wiki.makerbot.com/thingomatic-doc:body-assembly#toc21)
 
 ##3/9/2011 — Build Session The Thirde.
@@ -162,8 +125,8 @@ Misery and woe!
 
 
 
-[![](/mw/images/a/aa/Cracked_acrylic.jpg)](-file:cracked_acrylic.jpg.html)  
-[![](/mw/skins/common/images/magnify-clip.png)](-file:cracked_acrylic.jpg.html)After a week, our acrylic looked terrible
+[![](/mw/images/a/aa/Cracked_acrylic.jpg)](file:cracked_acrylic.jpg)  
+[![](/mw/skins/common/images/magnify-clip.png)](file:cracked_acrylic.jpg)After a week, our acrylic looked terrible
 
 We arrived in the evening to find our acrylic middle piece cracked at every hole, with cracks spiderwebbing everywhere. It seems that we overtightened the mounting bolts. Since the piece was fine last week and hasn't been touched since, we're blaming thermal expansion/contraction for the mess. We attempted to solve the problem by drilling a stop hole at the end of each crack and then spreading epoxy over the length of the crack.
 
@@ -171,8 +134,8 @@ Ultimately, the acrylic probably needs to be replaced. We still haven't figured 
 
 
 
-[![](/mw/images/a/aa/Extruder_fix.jpg)](-file:extruder_fix.jpg.html)  
-[![](/mw/skins/common/images/magnify-clip.png)](-file:extruder_fix.jpg.html)Stepstruder foot fix
+[![](/mw/images/a/aa/Extruder_fix.jpg)](file:extruder_fix.jpg)  
+[![](/mw/skins/common/images/magnify-clip.png)](file:extruder_fix.jpg)Stepstruder foot fix
 
 In addition, we found that one of the stepstruder's feet had been superglued into place with the wrong side facing out. It needed to be flipped end over end. The bolt holes in the left and right feet didn't have the same spacing from front to back, meaning the stepstruder would sit kitty-cornered on the Z-stage platform, one edge hanging off the front. We were able to pry the bottom-most superglued plate off the misaligned foot, but the next piece that joined the two extruder halves was tightly glued in tongue-and-groove. We used needle files to lengthen the hex hole for the 4mm nut into a slot in the acrylic, which let us use the mounting nut in the proper location without further extruder disassembly.
 
@@ -180,32 +143,25 @@ The Makerbot's OEM ATX power supply was defective. It refused to power on at all
 
 Accomplished:
 
-*FINISHED - Replaced the RJ-45 serial cable with a more bendy one to solve bend radius issue with the supplied one's boot.
+* FINISHED - Replaced the RJ-45 serial cable with a more bendy one to solve bend radius issue with the supplied one's boot.
 
+* FINISHED - Stepstruder assembly.  Since we'd used lead-free tin solder on the heating resistors, we decided that was good enough, vs. finding some silver solder later.
 
-*FINISHED - Stepstruder assembly.  Since we'd used lead-free tin solder on the heating resistors, we decided that was good enough, vs. finding some silver solder later.
+* FINISHED - Z-stage mounting.
 
+* FINISHED - XY-stage mounting.In Progress:
 
-*FINISHED - Z-stage mounting.
+* Stepstruder electronics assembly
 
+* Stepstruder mounting (complete?)
 
-*FINISHED - XY-stage mounting.In Progress:
+* Body assembly (almost complete)For next time:
 
-*Stepstruder electronics assembly
+* [Stepstruder electronics assembly](http://wiki.makerbot.com/stepstruder-mk6-electronics-assembly).  Initial resistance tests pass.  Calibrating the Z-axis stepper controller board potentiometers is done but should be re-checked carefully.  The only thing left, other than that, is wiring the stepstruder stuff to the extruder controller board.
 
+* Finish body assembly, mount power supply and electronics.
 
-*Stepstruder mounting (complete?)
-
-
-*Body assembly (almost complete)For next time:
-
-*[Stepstruder electronics assembly](http://wiki.makerbot.com/stepstruder-mk6-electronics-assembly).  Initial resistance tests pass.  Calibrating the Z-axis stepper controller board potentiometers is done but should be re-checked carefully.  The only thing left, other than that, is wiring the stepstruder stuff to the extruder controller board.
-
-
-*Finish body assembly, mount power supply and electronics.
-
-
-*[Start testing!](http://wiki.makerbot.com/thingomatic-doc:testing-your-bot)
+* [Start testing!](http://wiki.makerbot.com/thingomatic-doc:testing-your-bot)
 
 ##3/16/2011 — All Wired Up.
 
@@ -214,21 +170,18 @@ We managed to complete the mechanical and electronic assembly. We had just enoug
 
 Accomplished:
 
-*FINISHED - Stepstruder electronics assembly.
+* FINISHED - Stepstruder electronics assembly.
 
+* FINISHED - Stepstruder mounting.
 
-*FINISHED - Stepstruder mounting.
+* FINISHED - Body assembly (minus attaching the base, pending wiring diagnostics)In Progress:
 
+* Initial electrical testsFor next time:
 
-*FINISHED - Body assembly (minus attaching the base, pending wiring diagnostics)In Progress:
-
-*Initial electrical testsFor next time:
-
-*Continue 
+* Continue 
 [Testing Your Bot](http://wiki.makerbot.com/thingomatic-doc:testing-your-bot).
 
-
-*Finish body assembly, mount power supply and electronics.
+* Finish body assembly, mount power supply and electronics.
 
 ##3/23/2011 — Hot Wet Circuits.
 
@@ -245,39 +198,34 @@ We cranked up the temperatures on the ABP and the extruder. After fixing the tem
 
 Accomplished:
 
-*FINISHED - Wiring fixes.
+* FINISHED - Wiring fixes.
 
+* FINISHED - Temperatures tested.
 
-*FINISHED - Temperatures tested.
+* FINISHED - Limiting switches tested.
 
+* FINISHED - X-axis tested.
 
-*FINISHED - Limiting switches tested.
+* FINISHED - Y-axis tested.In Progress:
 
+* Z-axis and extruder tests.For next time:
 
-*FINISHED - X-axis tested.
-
-
-*FINISHED - Y-axis tested.In Progress:
-
-*Z-axis and extruder tests.For next time:
-
-*Continue 
+* Continue 
 [Testing Your Bot](http://wiki.makerbot.com/thingomatic-doc:testing-your-bot). We need to get to the root of the Z-axis strangeness and find out why the extruder motor isn't motoring.
-
 
 *
 
 ##3/30/2011 — Hot Wet Plastic.
 
 
-[![](/mw/images/6/62/Makerbot_printing_cube1.jpg)](-file:makerbot_printing_cube1.jpg.html)  
-[![](/mw/skins/common/images/magnify-clip.png)](-file:makerbot_printing_cube1.jpg.html)Printing Thing #0, a 20mm calibration cube
+[![](/mw/images/6/62/Makerbot_printing_cube1.jpg)](file:makerbot_printing_cube1.jpg)  
+[![](/mw/skins/common/images/magnify-clip.png)](file:makerbot_printing_cube1.jpg)Printing Thing #0, a 20mm calibration cube
 
-[![](/mw/images/7/78/Makerbot_printing_cube2.jpg)](-file:makerbot_printing_cube2.jpg.html)  
-[![](/mw/skins/common/images/magnify-clip.png)](-file:makerbot_printing_cube2.jpg.html)Printing Thing #0, a 20mm calibration cube
+[![](/mw/images/7/78/Makerbot_printing_cube2.jpg)](file:makerbot_printing_cube2.jpg)  
+[![](/mw/skins/common/images/magnify-clip.png)](file:makerbot_printing_cube2.jpg)Printing Thing #0, a 20mm calibration cube
 
-[![](/mw/images/f/fa/Thing0_thing1.jpg)](-file:thing0_thing1.jpg.html)  
-[![](/mw/skins/common/images/magnify-clip.png)](-file:thing0_thing1.jpg.html)Thing #0 and Thing #1 (still on its raft)
+[![](/mw/images/f/fa/Thing0_thing1.jpg)](file:thing0_thing1.jpg)  
+[![](/mw/skins/common/images/magnify-clip.png)](file:thing0_thing1.jpg)Thing #0 and Thing #1 (still on its raft)
 
 The nice new 500W+ modular power supply Mike had installed for us wouldn't start up. It seems it may be too smart for our 'bot. Solutions may include adding a dummy load or shorting -5V to ground as Makerbot Industries 
 [has recommended](http://wiki.makerbot.com/thingomatic-doc:coolermaster-psu-fix) for some Coolermaster power supplies.
@@ -296,19 +244,14 @@ We finally got to try a couple of test prints! Two 20mm
 
 TODO:
 
-*The ABP needs to be leveled.
+* The ABP needs to be leveled.
 
+* After leveling, the maximum Z-height needs to be found and marked on the 'bot. In fact, it wouldn't be a bad idea to make a plaque with a QR code directing potential users to a "best settings" page on this wiki.
 
-*After leveling, the maximum Z-height needs to be found and marked on the 'bot. In fact, it wouldn't be a bad idea to make a plaque with a QR code directing potential users to a "best settings" page on this wiki.
+* Align the Z-stage threaded rod. One post recommended moving the Z-stage all the way down off the threaded rod, then alternately tightening the Z stepper motor's mounting bolts until the threaded rod is "aimed" at the hole in the top of the Z-stage.
 
+* Lube the rods with some dry silicone lubricant (spray on rag, wipe onto rods). 3-in-1 oil can be used, too, but it's messier.
 
-*Align the Z-stage threaded rod. One post recommended moving the Z-stage all the way down off the threaded rod, then alternately tightening the Z stepper motor's mounting bolts until the threaded rod is "aimed" at the hole in the top of the Z-stage.
+* Even the second cube seemed to have problems at the lower layers. We may yet have gremlins in our temperature or feed rate settings. On a large, flat surface, pairs of neighboring threads would sometimes twist and raise from the raft on the first layer.
 
-
-*Lube the rods with some dry silicone lubricant (spray on rag, wipe onto rods). 3-in-1 oil can be used, too, but it's messier.
-
-
-*Even the second cube seemed to have problems at the lower layers. We may yet have gremlins in our temperature or feed rate settings. On a large, flat surface, pairs of neighboring threads would sometimes twist and raise from the raft on the first layer.
-
-
-*While fiddling around with a few more prints, the 'bot occasionally just stopped mid-print (when printing from SD card or a tethered PC). The Internet says this can be a communication problem when tethered or a later communication problem due to RF interference. We need to twist our cables to reduce RFI.
+* While fiddling around with a few more prints, the 'bot occasionally just stopped mid-print (when printing from SD card or a tethered PC). The Internet says this can be a communication problem when tethered or a later communication problem due to RF interference. We need to twist our cables to reduce RFI.

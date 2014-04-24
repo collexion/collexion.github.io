@@ -5,46 +5,32 @@ title: Teams - Collexion
 
 # Teams
 
-*[Rubyists](-rubyists.html)
+* [Rubyists](rubyists)
 
+* Physical Computing
 
-*Physical Computing
+* [Web Development](web_development)
 
+* Crafts
 
-*[Web Development](-web_development.html)
+* [Tabletop Gaming](tabletop_gaming)
 
+* [Game Development](game_development)
 
-*Crafts
+* Fabrication (welding/rapid prototyping)
 
+* Circuit Bending / Intrument building
 
-*[Tabletop Gaming](-tabletop_gaming.html)
+* User Interface
 
+* [Bicyclists](bicyclists)
 
-*[Game Development](-game_development.html)
+* Writers
 
+* [Singularity Action Squad](/mw/index.php?title=Singularity_Action_Squad&action=edit&redlink=1)
 
-*Fabrication (welding/rapid prototyping)
+* [Lexingtonian Victorian Society](lexingtonian_victorian_society)
 
+* [Paranormal Task Force](paranormal_task_force)
 
-*Circuit Bending / Intrument building
-
-
-*User Interface
-
-
-*[Bicyclists](-bicyclists.html)
-
-
-*Writers
-
-
-*[Singularity Action Squad](/mw/index.php?title=Singularity_Action_Squad&action=edit&redlink=1)
-
-
-*[Lexingtonian Victorian Society](-lexingtonian_victorian_society.html)
-
-
-*[Paranormal Task Force](-paranormal_task_force.html)
-
-
-*[Cloud Computing](-cloud_computing.html)
+* [Cloud Computing](cloud_computing)

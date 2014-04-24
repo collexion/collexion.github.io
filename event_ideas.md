@@ -5,49 +5,34 @@ title: Event Ideas - Collexion
 
 # Event Ideas
 
-*user group meetings
+* user group meetings
 
+* kids/family events
 
-*kids/family events
+* tutorial students (math/science)
 
+* volunteer days (at local charities)
 
-*tutorial students (math/science)
+* rock shows
 
+* power tool race
 
-*volunteer days (at local charities)
+* soap box derby
 
+* lan party
 
-*rock shows
+* movie night
 
+* game night
 
-*power tool race
+* crafting party
 
+* model rocket festival
 
-*soap box derby
+* parade
 
+* "Iron Chef" style making contest
 
-*lan party
+* junkyard wars
 
-
-*movie night
-
-
-*game night
-
-
-*crafting party
-
-
-*model rocket festival
-
-
-*parade
-
-
-*"Iron Chef" style making contest
-
-
-*junkyard wars
-
-
-*amplifier building workshop
+* amplifier building workshop

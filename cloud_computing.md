@@ -5,22 +5,7 @@ title: Cloud Computing - Collexion
 
 # Cloud Computing
 
-##Contents
-
-*[1 
-Purpose](#Purpose)
-
-
-*[2 
-Resources](#Resources)
-
-
-*[3 
-People](#People)
-
-
-*[4 
-Operations](#Operations)##Purpose
+##Purpose
 
 
 To implement cloud infrastructure, publicize resources, and help others build applications targeted for cloud architecture.
@@ -33,16 +18,15 @@ There are a few rack mounted machines in the space that we're going to set up Op
 ##People
 
 
-*[User:Xtoddx](-user:xtoddx.html)
+* [User:Xtoddx](user:xtoddx)
 
-
-*[Nikolaiwarner](-user:nikolaiwarner.html)##Operations
+* [Nikolaiwarner](user:nikolaiwarner)##Operations
 
 
 Networking
 
 is provided by the linksys wireless router.  See 
-[Router_Settings](-router_settings.html).
+[Router_Settings](router_settings).
 
 compute002 host (the .12 address) is the 
  in flat dhcp mode.  All public ips (floating ips, in Open Stack parlance, as they float between instances) should route here, and it will nat appropriately.  For each instance a bridge will be created to route traffic.  We cannot use the interface with the .12 address on as the flat_interface.  See 

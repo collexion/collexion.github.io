@@ -10,9 +10,9 @@ The Collexion Newsletter is an email newsletter that is cool and appears on a ra
 ##2012
 
 
-[Newsletter 2012.10.02](-newsletter_2012.10.02.html)
+[Newsletter 2012.10.02](newsletter_2012.10.02)
 
 ##2011
 
 
-[Newsletter 2011.05.02](-newsletter_2011.05.02.html)
+[Newsletter 2011.05.02](newsletter_2011.05.02)

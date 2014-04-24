@@ -158,4 +158,4 @@ command line shell
 
 required for technical users to find Android usable (rooted device required)Other recommendations and helpful info for Android phones/tablets:
 
-*Don't forget to add the built-in Power Control Widget to one of your desktops if it's not already there. Nice quick toggles for various hardware bits.*The two largest/most functional Android hacking communities I've come across are rootzwiki.com and xda-developers.com  They both have some internet politics and drama, and n00bhorde problems that come with being for a dominant platform, but you can usually shake the information you need out of their forums and wikis.
+* Don't forget to add the built-in Power Control Widget to one of your desktops if it's not already there. Nice quick toggles for various hardware bits.* The two largest/most functional Android hacking communities I've come across are rootzwiki.com and xda-developers.com  They both have some internet politics and drama, and n00bhorde problems that come with being for a dominant platform, but you can usually shake the information you need out of their forums and wikis.

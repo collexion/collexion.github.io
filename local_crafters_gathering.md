@@ -9,7 +9,7 @@ title: Local Crafters Gathering - Collexion
 
 
 Where: 
-[Collexion](-collexion.html)
+[Collexion](collexion)
 
 When: Weekly on Mondays from 7pm - 9pm
 
