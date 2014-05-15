@@ -11,6 +11,7 @@ to `.io`. You may need to update your `.git/config` file.
 
 Setup
 =====
-
-`bundle install`
-`jekyll serve`
+```
+bundle install
+bundle exec jekyll serve
+```
