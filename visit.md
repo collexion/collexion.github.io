@@ -4,7 +4,7 @@ title: Visit Collexion
 ---
 
 <div class="row">
-  Collexion hosts open hours and takes delivers at the Innovation Lab at TLC.
+  Collexion hosts open hours and takes deliveries at the Innovation Lab at TLC.
 </div>
 
 <div class="row">
