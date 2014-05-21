@@ -60,5 +60,5 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll
-  rdiscount
+  jekyll (~> 2.0.3)
+  rdiscount (~> 2.1.7.1)
