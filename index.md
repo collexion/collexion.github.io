@@ -10,9 +10,6 @@ title: Collexion
 Collexion is a 
 [hackerspace](http://en.wikipedia.org/wiki/Hackerspace), a technology and artistic collaborative space, in Lexington, KY.
 
-[![The space.jpg](/mw/images/5/52/The_space.jpg)](file:the_space.jpg)  
-[![](/mw/skins/common/images/magnify-clip.png)](file:the_space.jpg)
-
 We are located at the 
 Innovation Lab at The Learning Center (TLC) 
 [2420 Spurr Road. Lexington, KY 40511](https://www.google.com/maps/preview#!q=2420+Spurr+Road+%E2%80%A2+Lexington%2C+KY+40511&data=!4m14!2m13!1m12!1s0x884244021c0ffdff%3A0x4a5f8033fae045!3m7!1m2!2d-84.471565!3d38.02833!3m2!1i1920!2i1018!4f13.1!4m2!3d38.103885!4d-84.517196). The Innovation Lab is at the back of the building, rooms 111-112.  Regular meetings are Wednesdays at 6pm. See our 
@@ -101,6 +98,3 @@ Join in on our weekly
 
 * Let's play some 
 [Board Games](board_games) - increase excitement quotient by listing the games you have.##Now Playing at Collexion!
-
-
-![cam0.jpg](http://www.collexion.net/cam/cam0.jpg)
