@@ -8,3 +8,10 @@ Name Change
 
 The name of this repository was recently changed to map the domain from `.com`
 to `.io`. You may need to update your `.git/config` file.
+
+Setup
+=====
+```
+bundle install
+bundle exec jekyll serve
+```
